@@ -36,7 +36,7 @@ Criar insights em dashboards para análise dos dados de diferentes áreas.
 ## Insights do Dashboard de Finanças
 - total de entradas, saídas, impostos e lucro;
 - percentual de margem de lucro;
-- análise de lucro e prejuízo mensal;
+- análise de aumento e diminuição de lucro mensal;
 - info. de total de movimentações e as realizadas via PIX;
 - análise por banco;
 - info. de margem de lucro e desvio de margem por município.
