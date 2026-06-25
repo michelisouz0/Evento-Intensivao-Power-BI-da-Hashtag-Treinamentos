@@ -10,7 +10,6 @@ Criar insights em dashboards para análise dos dados de diferentes áreas.
 - produto mais vendido;
 - faturamento por continente.
 
-## Dashboard de Vendas
 https://github.com/user-attachments/assets/6258b5cf-9c3a-4171-93ce-7b395764fa50
 
 ## Insights do Dashboard de RH
@@ -20,7 +19,6 @@ https://github.com/user-attachments/assets/6258b5cf-9c3a-4171-93ce-7b395764fa50
 - qtd. de funcionários por área e cargo;
 - folha salarial dos funcionários por cidade.
 
-## Dashboard de RH
 https://github.com/user-attachments/assets/069911fe-fde9-41bd-a23c-0f2ac1ba1fd8
 
 ## Insights do Dashboard de Logística
@@ -30,7 +28,6 @@ https://github.com/user-attachments/assets/069911fe-fde9-41bd-a23c-0f2ac1ba1fd8
 - qtd. de horas produtivas e c/ produção parada;
 - filtro para análise de produção por operador e por mês.
 
-## Dashboard de Logística
 https://github.com/user-attachments/assets/9723d0ef-2774-4b11-911b-916a6340b6ca
 
 ## Insights do Dashboard de Finanças
@@ -40,8 +37,7 @@ https://github.com/user-attachments/assets/9723d0ef-2774-4b11-911b-916a6340b6ca
 - info. de total de movimentações e as realizadas via PIX;
 - análise por banco;
 - info. de margem de lucro e desvio de margem por município.
-
-## Dashboard de Finanças 
+ 
 https://github.com/user-attachments/assets/ed4d180a-2128-46da-9014-e5934d99c8c3
 
 ## Tecnologias e linguagem
