@@ -46,5 +46,3 @@ https://github.com/user-attachments/assets/ed4d180a-2128-46da-9014-e5934d99c8c3
 
 ## Tecnologias e linguagem
 - Power BI e DAX
-
-
