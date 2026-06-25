@@ -47,3 +47,5 @@ Criar insights em dashboards para análise dos dados de diferentes áreas.
 
 ## Tecnologias e linguagem
 - Power BI e DAX
+
+
